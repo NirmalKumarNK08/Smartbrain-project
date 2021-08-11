@@ -1,3 +1,7 @@
 .Tilt {
    background: rgb(0, 194, 120);
 }
+
+.main {
+   position: relative;
+}
